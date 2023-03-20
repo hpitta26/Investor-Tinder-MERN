@@ -52,5 +52,5 @@ This project is the product of 100s of hours of self-studying after which I deci
    - Window downsizing responsiveness (you could focus only on one Component).
    - Removing startups from user's portfolio.
    - User Profile editing (you may use a boolean to toggle the state of the User Profile and conditionally render each state).
-   - You may also use your creativity and improve the layout or function of any Component.
+   - You may also use your creativity to improve the layout or function of any Component.
  
