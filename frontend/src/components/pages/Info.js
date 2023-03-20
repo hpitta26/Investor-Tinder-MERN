@@ -34,12 +34,11 @@ function Info() {
             <h2>Future:</h2>
             <ul>
                 <li>Improve <strong>Investment Form</strong> with form validation, and more investment control.</li>
-                <li>Improve <strong>User Profiles</strong> through better UI (to do decided).</li>
+                <li>Improve <strong>User Profiles</strong> through better UI (to be decided).</li>
                 <li>Improve <strong>Watchlist</strong> with simultaneous sorting, more metrics, and selected time period functionality.</li>
                 <li>Improve <strong>Portfolio</strong> through investment removal, and before/ after investment value.</li>
                 <li>Add <strong>Side Menu</strong> to edit user profile and change App settings.</li>
                 <li>Add <strong>Timed Metric Change</strong> so that investment value can change over time (simulate actual companies).</li>
-                <li>Implement <strong>Backend</strong> using Node.js and Express.js.</li>
             </ul>
             
         </div>
