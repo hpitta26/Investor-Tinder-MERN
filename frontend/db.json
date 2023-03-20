@@ -1,0 +1,728 @@
+{
+    "startups": [
+      {
+        "id": 1,
+        "industries": "Real Estate",
+        "src": "images/realestate1.jpg",
+        "alt": "Real Estate",
+        "text": "Home Builders",
+        "username": "home-builders",
+        "bio": "Experienced home builders with a team of over 10 people. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "analytics": [
+          "2019",
+          "Chicago, Illinois",
+          "Real Estate Development",
+          "$10000 - $20000"
+        ],
+        "achievements": [
+          "2019",
+          "Chicago, Illinois",
+          "$5000",
+          "$10000 - $20000"
+        ],
+        "ocf": [
+          10000,
+          11000,
+          12000
+        ],
+        "rgr": [
+          4.2,
+          -5.4,
+          3.1
+        ],
+        "sales": [
+          1230,
+          808,
+          970
+        ],
+        "icons": [
+          "fa-solid fa-house-chimney",
+          "fa-solid fa-brush",
+          "fa-solid fa-hammer"
+        ],
+        "businessModel": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "id": 2,
+        "industries": "Hospitality",
+        "src": "images/hospitality1.jpg",
+        "alt": "Cafe",
+        "text": "Little Cafe",
+        "username": "little-cafe",
+        "bio": "Cafe specializing in finger foods and beverages to ensure clients have the best relaxation experience during breaks. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "analytics": [
+          "2008",
+          "Vancouver, BC",
+          "Restaurant",
+          "$20000 - $30000"
+        ],
+        "achievements": [
+          "2008",
+          "Vancouver, BC",
+          "$2000",
+          "$20000 - $30000"
+        ],
+        "ocf": [
+          21000,
+          15000,
+          19000
+        ],
+        "rgr": [
+          3.2,
+          -7.4,
+          4.1
+        ],
+        "sales": [
+          1130,
+          950,
+          1030
+        ],
+        "icons": [
+          "fa-solid fa-hotel",
+          "fa-solid fa-utensils",
+          "fa-solid fa-plane"
+        ],
+        "businessModel": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "id": 3,
+        "industries": "Tech",
+        "src": "images/tech1.jpg",
+        "alt": "Software",
+        "text": "Design You",
+        "username": "design-you",
+        "bio": "Team capable of developing and deploying projects efficiently. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "analytics": [
+          "2020",
+          "Remote",
+          "Tech",
+          "$20000 - $30000"
+        ],
+        "achievements": [
+          "2020",
+          "Remote",
+          "$10000",
+          "$20000 - $30000"
+        ],
+        "ocf": [
+          32000,
+          27000,
+          25000
+        ],
+        "rgr": [
+          4.5,
+          -2.4,
+          -2.1
+        ],
+        "sales": [
+          30,
+          25,
+          21
+        ],
+        "icons": [
+          "fa-solid fa-computer",
+          "fa-solid fa-code",
+          "fa-solid fa-tachograph-digital"
+        ],
+        "businessModel": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "id": 4,
+        "industries": "Professional Services",
+        "src": "images/profservices1.jpg",
+        "alt": "Consulting",
+        "text": "101 Consulting",
+        "username": "101-consulting",
+        "bio": "Experienced in consulting small companies to help boost sales and develop smooth business operations. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "analytics": [
+          "2008",
+          "Vancouver, BC",
+          "Consulting",
+          "$20000 - $30000"
+        ],
+        "achievements": [
+          "2008",
+          "Vancouver, BC",
+          "$2000",
+          "$20000 - $30000"
+        ],
+        "ocf": [
+          24000,
+          27000,
+          32000
+        ],
+        "rgr": [
+          -3.2,
+          5.2,
+          3.7
+        ],
+        "sales": [
+          12,
+          15,
+          19
+        ],
+        "icons": [
+          "fa-solid fa-handshake",
+          "fa-solid fa-users",
+          "fa-solid fa-comments"
+        ],
+        "businessModel": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "id": 5,
+        "industries": "Delivery",
+        "src": "images/delivery1.jpg",
+        "alt": "Food Delivery",
+        "text": "Insta Grocery",
+        "username": "insta-grocery",
+        "bio": "Fleet of 100 robots capable of delivering groceries to users in downtown Vancouver. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "analytics": [
+          "2008",
+          "Vancouver, BC",
+          "Delivery",
+          "$20000 - $30000"
+        ],
+        "achievements": [
+          "2008",
+          "Vancouver, BC",
+          "$2000",
+          "$20000 - $30000"
+        ],
+        "ocf": [
+          14000,
+          17000,
+          12000
+        ],
+        "rgr": [
+          4.1,
+          8.4,
+          -6.1
+        ],
+        "sales": [
+          3030,
+          2800,
+          2510
+        ],
+        "icons": [
+          "fa-solid fa-car",
+          "fa-solid fa-bag-shopping",
+          "fa-solid fa-store"
+        ],
+        "businessModel": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "id": 6,
+        "industries": "Sport",
+        "src": "images/sport1.jpg",
+        "alt": "Green Golf",
+        "text": "Green Golf",
+        "username": "green-golf",
+        "bio": "Develop golfballs from recycled, bio degradeable material in order to mitigate environmental harm. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "analytics": [
+          "2008",
+          "Vancouver, BC",
+          "Sports",
+          "$20000 - $30000"
+        ],
+        "achievements": [
+          "2008",
+          "Vancouver, BC",
+          "$2000",
+          "$20000 - $30000"
+        ],
+        "ocf": [
+          9000,
+          9200,
+          9100
+        ],
+        "rgr": [
+          1.3,
+          1.5,
+          1.3
+        ],
+        "sales": [
+          550,
+          700,
+          620
+        ],
+        "icons": [
+          "fa-solid fa-person-running",
+          "fa-solid fa-heart-pulse",
+          "fa-solid fa-person-swimming"
+        ],
+        "businessModel": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "id": 7,
+        "industries": "Pet",
+        "src": "images/pet1.jpg",
+        "alt": "Pet Store",
+        "text": "Your Bestfriend",
+        "username": "your-bestfriend",
+        "bio": "Pet shleter focused on finding the best homes for our friends. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "analytics": [
+          "2008",
+          "Vancouver, BC",
+          "Pets",
+          "$20000 - $30000"
+        ],
+        "achievements": [
+          "2008",
+          "Vancouver, BC",
+          "$2000",
+          "$20000 - $30000"
+        ],
+        "ocf": [
+          16000,
+          17000,
+          15000
+        ],
+        "rgr": [
+          3.2,
+          5.2,
+          -1.1
+        ],
+        "sales": [
+          220,
+          301,
+          190
+        ],
+        "icons": [
+          "fa-solid fa-dog",
+          "fa-solid fa-paw",
+          "fa-solid fa-cat"
+        ],
+        "businessModel": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "id": 8,
+        "industries": "Hospitality",
+        "src": "images/hospitality2.jpg",
+        "alt": "Restaurant",
+        "text": "Italian Heritage",
+        "username": "italian-heritage",
+        "bio": "Gourmet Italian cuisine from a family owned kitchen. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "analytics": [
+          "2008",
+          "Vancouver, BC",
+          "Restaurant",
+          "$20000 - $30000"
+        ],
+        "achievements": [
+          "2008",
+          "Vancouver, BC",
+          "$2000",
+          "$20000 - $30000"
+        ],
+        "ocf": [
+          23000,
+          26000,
+          21000
+        ],
+        "rgr": [
+          3.4,
+          4.6,
+          -2.1
+        ],
+        "sales": [
+          700,
+          1150,
+          730
+        ],
+        "icons": [
+          "fa-solid fa-hotel",
+          "fa-solid fa-utensils",
+          "fa-solid fa-plane"
+        ],
+        "businessModel": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "id": 9,
+        "industries": "Sport",
+        "src": "images/sport2.jpg",
+        "alt": "Winter Sports",
+        "text": "Inov Boards",
+        "username": "inov-boards",
+        "bio": "Create snowboards from recycled and durable material to reduce environmental impact. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "analytics": [
+          "2008",
+          "Vancouver, BC",
+          "Sports",
+          "$20000 - $30000"
+        ],
+        "achievements": [
+          "2008",
+          "Vancouver, BC",
+          "$2000",
+          "$20000 - $30000"
+        ],
+        "ocf": [
+          5500,
+          11000,
+          7000
+        ],
+        "rgr": [
+          -6.2,
+          7.2,
+          3.4
+        ],
+        "sales": [
+          90,
+          160,
+          110
+        ],
+        "icons": [
+          "fa-solid fa-person-running",
+          "fa-solid fa-heart-pulse",
+          "fa-solid fa-person-swimming"
+        ],
+        "businessModel": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "id": 10,
+        "industries": "Hospitality",
+        "src": "images/hospitality3.jpg",
+        "alt": "Tourism",
+        "text": "Travel Together",
+        "username": "travel-together",
+        "bio": "Travel agency that specializes in providing the best experiences in the Carribean. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "analytics": [
+          "2008",
+          "Vancouver, BC",
+          "Tourism",
+          "$20000 - $30000"
+        ],
+        "achievements": [
+          "2008",
+          "Vancouver, BC",
+          "$2000",
+          "$20000 - $30000"
+        ],
+        "ocf": [
+          21000,
+          24000,
+          19000
+        ],
+        "rgr": [
+          -5.2,
+          7.4,
+          -3.1
+        ],
+        "sales": [
+          600,
+          840,
+          540
+        ],
+        "icons": [
+          "fa-solid fa-hotel",
+          "fa-solid fa-utensils",
+          "fa-solid fa-plane"
+        ],
+        "businessModel": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "id": 11,
+        "industries": "Real Estate",
+        "src": "images/realestate3.jpg",
+        "alt": "Real Estate",
+        "text": "Roofing Solutions",
+        "username": "roofing-solutions",
+        "bio": "Group that specializes in roofing and insulating houses for harsh climates. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "analytics": [
+          "2014",
+          "Calgary, Alberta",
+          "Real Estate",
+          "$50000 - $60000"
+        ],
+        "achievements": [
+          "2014",
+          "Vancouver, BC",
+          "$2000",
+          "$20000 - $30000"
+        ],
+        "ocf": [
+          22300,
+          26000,
+          21000
+        ],
+        "rgr": [
+          -1.2,
+          4.2,
+          -1.1
+        ],
+        "sales": [
+          20,
+          25,
+          21
+        ],
+        "icons": [
+          "fa-solid fa-house-chimney",
+          "fa-solid fa-brush",
+          "fa-solid fa-hammer"
+        ],
+        "businessModel": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "id": 12,
+        "industries": "Professional Services",
+        "src": "images/profservices2.jpg",
+        "alt": "Franchising",
+        "text": "Speed Chaining",
+        "username": "speed-chaining",
+        "bio": "Agency that specializes in helping companies transition to a franchise. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "analytics": [
+          "2008",
+          "Vancouver, BC",
+          "Consulting",
+          "$20000 - $30000"
+        ],
+        "achievements": [
+          "2008",
+          "Vancouver, BC",
+          "$2000",
+          "$20000 - $30000"
+        ],
+        "ocf": [
+          30000,
+          34000,
+          23000
+        ],
+        "rgr": [
+          2.2,
+          5.4,
+          -6.1
+        ],
+        "sales": [
+          5,
+          6,
+          3
+        ],
+        "icons": [
+          "fa-solid fa-handshake",
+          "fa-solid fa-users",
+          "fa-solid fa-comments"
+        ],
+        "businessModel": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "id": 13,
+        "industries": "Tech",
+        "src": "images/tech2.jpg",
+        "alt": "Tech",
+        "text": "Drone Fleet",
+        "username": "drone-fleet",
+        "bio": "Rentable fleet of drones that be used for the renter's needs. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "analytics": [
+          "2008",
+          "Vancouver, BC",
+          "Tech",
+          "$20000 - $30000"
+        ],
+        "achievements": [
+          "2008",
+          "Vancouver, BC",
+          "$2000",
+          "$20000 - $30000"
+        ],
+        "ocf": [
+          8000,
+          9000,
+          7800
+        ],
+        "rgr": [
+          1.2,
+          2.4,
+          -1.1
+        ],
+        "sales": [
+          58,
+          65,
+          40
+        ],
+        "icons": [
+          "fa-solid fa-computer",
+          "fa-solid fa-code",
+          "fa-solid fa-tachograph-digital"
+        ],
+        "businessModel": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "id": 14,
+        "industries": "Pet",
+        "src": "images/pet2.jpg",
+        "alt": "Pet",
+        "text": "Groomer Kings",
+        "username": "groomer-kings",
+        "bio": "Groomers specilaizing in preparing pets for competitions. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "analytics": [
+          "2008",
+          "Vancouver, BC",
+          "Pet",
+          "$20000 - $30000"
+        ],
+        "achievements": [
+          "2008",
+          "Vancouver, BC",
+          "$2000",
+          "$20000 - $30000"
+        ],
+        "ocf": [
+          12000,
+          15000,
+          13000
+        ],
+        "rgr": [
+          -1.2,
+          3.4,
+          -0.5
+        ],
+        "sales": [
+          102,
+          120,
+          110
+        ],
+        "icons": [
+          "fa-solid fa-dog",
+          "fa-solid fa-paw",
+          "fa-solid fa-cat"
+        ],
+        "businessModel": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      }
+    ],
+    "watchlist": [
+      {
+        "id": 4,
+        "industries": "Professional Services",
+        "src": "images/profservices1.jpg",
+        "alt": "Consulting",
+        "text": "101 Consulting",
+        "username": "101-consulting",
+        "ocf": [
+          24000,
+          27000,
+          32000
+        ],
+        "rgr": [
+          -3.2,
+          5.2,
+          3.7
+        ],
+        "sales": [
+          12,
+          15,
+          19
+        ],
+        "star": false
+      },
+      {
+        "id": 5,
+        "industries": "Delivery",
+        "src": "images/delivery1.jpg",
+        "alt": "Food Delivery",
+        "text": "Insta Grocery",
+        "username": "insta-grocery",
+        "ocf": [
+          14000,
+          17000,
+          12000
+        ],
+        "rgr": [
+          4.1,
+          8.4,
+          -6.1
+        ],
+        "sales": [
+          3030,
+          2800,
+          2510
+        ],
+        "star": false
+      },
+      {
+        "id": 6,
+        "industries": "Sport",
+        "src": "images/sport1.jpg",
+        "alt": "Green Golf",
+        "text": "Green Golf",
+        "username": "green-golf",
+        "ocf": [
+          9000,
+          9200,
+          9100
+        ],
+        "rgr": [
+          1.3,
+          1.5,
+          1.3
+        ],
+        "sales": [
+          550,
+          700,
+          620
+        ],
+        "star": false
+      },
+      {
+        "id": 7,
+        "industries": "Pet",
+        "src": "images/pet1.jpg",
+        "alt": "Pet Store",
+        "text": "Your Bestfriend",
+        "username": "your-bestfriend",
+        "ocf": [
+          16000,
+          17000,
+          15000
+        ],
+        "rgr": [
+          3.2,
+          5.2,
+          -1.1
+        ],
+        "sales": [
+          220,
+          301,
+          190
+        ],
+        "star": false
+      }
+    ],
+    "portfolio": [
+      {
+        "id": 4,
+        "industries": "Professional Services",
+        "src": "images/profservices1.jpg",
+        "alt": "Consulting",
+        "text": "101 Consulting",
+        "username": "101-consulting",
+        "amount": 1000
+      },
+      {
+        "id": 5,
+        "industries": "Delivery",
+        "src": "images/delivery1.jpg",
+        "alt": "Food Delivery",
+        "text": "Insta Grocery",
+        "username": "insta-grocery",
+        "amount": 2000
+      },
+      {
+        "id": 6,
+        "industries": "Sport",
+        "src": "images/sport1.jpg",
+        "alt": "Green Golf",
+        "text": "Green Golf",
+        "username": "green-golf",
+        "amount": 3000
+      },
+      {
+        "id": 7,
+        "industries": "Pet",
+        "src": "images/pet1.jpg",
+        "alt": "Pet Store",
+        "text": "Your Bestfriend",
+        "username": "your-bestfriend",
+        "amount": 4000
+      }
+    ]
+  }

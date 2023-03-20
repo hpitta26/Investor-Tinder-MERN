@@ -1,0 +1,28 @@
+.n104-whole-page {
+    /* background-color: aquamarine; */
+    margin-top: 100px;
+}
+
+.n104-title-text {
+    /* background-color: aquamarine; */
+    display: flex;
+    justify-content: center;
+}
+.n104-text {
+    /* background-color: aqua; */
+    display: block;
+    margin-left: 10rem;
+    margin-right: 10rem;
+}
+
+li {
+    margin-top: 1rem;
+    font-size: 1.1rem;
+}
+
+.n104-author {
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+    display: flex;
+    justify-content: center;
+}

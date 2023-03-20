@@ -1,0 +1,212 @@
+/* START OF GENERAL CSS BLOCK */
+
+.n7-card-container {
+    margin: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    border-radius: 0.8rem;
+    border-style: solid;
+    border-color: #e3e1e1;
+    box-shadow: 0 0px 15px rgba(56, 125, 255, 0.17);
+
+    /* width: 100%; */
+}
+
+.n7-card-link {
+    /* background-color: aqua; */
+    text-decoration: none;
+    color: black;
+    
+}
+
+.n7-cell {
+    /* background-color: aqua; */
+    padding: 1rem;
+}
+
+.n7-grid {
+    display: grid;
+    grid-template-columns: 1fr 6fr 1fr;
+    grid-gap: 1rem;
+}
+
+
+
+/* START OF 1st CSS BLOCK */
+
+.n7-item-one {
+    display: inline-block;
+    text-align: center;
+    margin: auto;
+}
+.n7-profile-pic {
+    /* background-color: aqua; */
+    border-radius: 50%;
+    width: 120px; 
+    height: 120px;
+
+}
+.n7-company-industry {
+    display: block;
+    margin-top: 0.5rem;
+    color: #8a8989;
+    font-weight:600;
+}
+
+
+
+
+
+/* START OF 2nd CSS BLOCK */
+
+.n7-cell2 {
+    /* background-color: aqua; */
+    padding-top: 0rem;
+    padding-bottom: 0rem;
+    /* padding-left: 1rem; */
+    padding-right: 1rem;
+    /* padding: 1rem; */
+}
+
+.n7-item-two {
+    display: grid;
+    grid-template-columns: 1fr 2.5fr;
+    grid-template-rows: 1fr;
+    gap: 1rem;
+}
+
+.n7-middle-cell1 {
+    /* background-color: cadetblue; */
+    margin-top: 0.3rem;
+    margin-bottom: 0.3rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    
+    margin-right: 1rem;
+
+    border-right: 1.5px groove black;
+    
+    
+}
+
+.n7-middle-cell2 {
+    /* background-color: cadetblue; */
+    margin-top: 0.3rem;
+    margin-bottom: 0.3rem;
+    /* height: 90%; */
+    /* margin-right: 1rem; */
+
+    padding-top: 0.3rem;
+    padding-bottom: 0.3rem;
+    border-top: 1.5px groove black;
+    border-bottom: 1.5px groove black;
+}
+
+.n7-company-name {
+    margin-bottom: -0.3rem;
+}
+
+.n7-icon1 {
+    margin-left: 0.2rem;
+    margin-right: 0.8rem;
+}
+.n7-icon2 {
+    margin-right: 0.5rem;
+}
+.n7-icon3 {
+    margin-left: 0.15rem;
+    margin-right: 0.75rem;
+}
+
+
+/* START OF 3rd CSS BLOCK */
+
+
+.n7-item-three {
+    display: flex;
+    align-content: center;
+    justify-content: center; 
+
+    margin-top: 0.3rem;
+    margin-bottom: 0.3rem;
+    border-left: 1.5px groove black;
+}
+.n7-btns-wrapper {
+    /* background-color: aquamarine ; */
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 1rem;
+}
+.n7-btns-wrapper > i {
+    /* background-color: aqua; */
+    cursor: pointer;
+}
+.fa-trash-can {
+    color: rgb(185, 189, 186);
+    font-size: 3rem;
+}
+.fa-star {
+    color: rgb(185, 189, 186);
+    font-size: 3rem;
+    stroke: black;
+    stroke-width: 2px;
+}
+
+.star-active {
+    color: rgb(244, 229, 69);
+}
+
+
+
+/* START OF TABLE CSS BLOCK */
+
+.n7-table {
+    /* border: solid; */
+    border-collapse: collapse;
+    /* background-color:bisque ; */
+    width: 100%;
+    height: 100%;
+
+}
+
+td {
+    border-top: 1.5px groove;
+    border-bottom: 1.5px groove;
+    border-color: black;
+    text-align: center;
+
+    font-weight:500;
+
+
+    /* border-style:groove; */
+    
+    /* border: 1px solid black; */
+}
+
+.n7-table-r0 {
+    width: 10%;
+    border-right: 1.5px groove black;
+    border-top: none;
+    font-weight:700;
+
+}
+.n7-table-r1 {
+    border-top: none;
+}
+.n7-table-r2 {
+    border-top: none;
+}
+.n7-table-r3 {
+    border-top: none;
+}
+
+.n7-table-last {
+    border-bottom: none;
+}
+
+
+

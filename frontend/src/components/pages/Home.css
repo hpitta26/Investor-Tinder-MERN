@@ -1,0 +1,10 @@
+.n100-whole-page {
+    /* background-color: aquamarine; */
+    margin-top: 100px;
+}
+
+.n100-title-text {
+    /* background-color: aquamarine; */
+    display: flex;
+    justify-content: center;
+}

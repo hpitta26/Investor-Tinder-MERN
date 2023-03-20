@@ -1,0 +1,56 @@
+.n4-cards-space {
+    /* background-color: aqua; */
+    /* background-color: white; */
+    /* padding: 4rem; */
+    padding-top: 1rem;
+    align-items: center;
+    justify-content: center;
+
+    width: 95%;
+    margin: auto;
+}
+
+.n4-triple-item-list {
+    /* background-color:darkslategrey; */
+
+    display: flex;
+    flex-direction: row;
+
+    align-items: center;
+    justify-content: center;
+}
+
+.n4-list-item-tick {
+    /* background-color:bisque; */
+    font-size: 8rem;
+    color: rgb(27, 144, 35);
+    cursor: pointer;
+
+    margin-right: 2rem;
+}
+
+.n4-list-item-cross {
+    /* background-color: bisque; */
+    font-size: 8rem;
+    color: rgb(167, 34, 34);
+    cursor: pointer;
+
+    margin-left: 2rem;
+    padding-right: 2rem; /* Make cross same size as tick */
+}
+
+.n4-list-item-tick:hover {
+    transform: scale(1.05);
+}
+
+.n4-list-item-cross:hover {
+    transform: scale(1.05);
+}
+
+.fa-check {
+
+}
+
+.fa-xmark {
+
+}

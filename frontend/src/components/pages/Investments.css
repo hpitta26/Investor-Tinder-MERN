@@ -1,0 +1,56 @@
+.n103-whole-page {
+    background-color: rgba(245, 233, 217, 0.1);
+    /* background-color: aqua; */
+    margin-top: 100px;
+}
+
+.n103-title-text {
+    /* background-color: aquamarine; */
+    display: flex;
+    justify-content: center;
+}
+
+
+.n103-list-wrapper {
+    margin-left: 1rem;
+    margin-right: 1rem;
+    /* background-color: aqua; */
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 3rem;
+}
+
+.n103-card-link {
+    padding: 1rem;
+    border-radius: 0.8rem;
+    box-shadow: 0 0px 15px rgba(56, 125, 255, 0.17);
+
+    /* background-color: rgb(77, 166, 123); */
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+}
+.n103-profile-pic {
+    /* background-color: aqua; */
+    border-radius: 50%;
+    width: 150px; 
+    height: 150px;
+
+}
+.n103-company-industry {
+    display: block;
+    margin-top: 0.5rem;
+    /* color: #8a8989; */
+    color: black;
+    font-weight:600;
+}
+.n103-card-item1 {
+
+}
+.n103-card-item2 {
+    /* background-color:aquamarine; */
+    margin: auto;
+}

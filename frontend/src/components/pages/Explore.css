@@ -1,0 +1,51 @@
+.n101-whole-page {
+    margin-top: 100px;
+    background-color: rgba(245, 233, 217, 0.1);
+}
+
+.n101-title-text {
+    display: flex;
+    justify-content: center;
+}
+
+.n101-icons-container {
+    /* background-color: aqua; */
+    margin-top: 2rem;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-auto-rows: 1fr;
+    text-align: center;
+    gap: 1rem;
+    
+}
+.n101-icons-wrapper {
+    /* background-color: antiquewhite; */
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    gap: 0.5rem;
+}
+.n101-icons-wrapper.active > i {
+    color: rgb(62, 174, 27);
+}
+.n101-icons-wrapper.active > label {
+    font-weight: 800;
+}
+
+.n101-icon {
+    font-size: 3rem;
+    pointer-events: none;
+    transition: color 150ms ease-in-out;
+}
+.n101-industry-label {
+    font-weight: 600;
+    pointer-events: none;
+    transition: font-weight 150ms ease-in-out;
+}
+
+.n101-cards-container {
+    /* background-color: aquamarine; */
+    padding: 2rem;
+    /* margin-top: 2rem; */
+    display: grid;
+    gap: 2rem;
+}

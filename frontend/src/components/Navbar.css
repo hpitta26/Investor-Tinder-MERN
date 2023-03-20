@@ -1,0 +1,141 @@
+
+.n2-grid {
+    position: fixed;
+    z-index: 2;
+    background-color: #242424;
+    top: 0;
+    width: 100%;
+    overflow: hidden;
+    height: 80px;
+
+    display: grid;
+    grid-template-columns: 3fr 6fr 1fr;
+    gap: 1rem;
+}
+
+.n2-cell {
+    padding: 1rem;
+    /* background-color: aqua; */
+    /* margin: auto; */
+    
+}
+
+.n2-logo-container {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.n2-navbar-logo {
+    color: white;
+    font-size: 2rem;
+    text-decoration: none;
+    margin-left: 2rem;   
+}
+
+.fa-solid.fa-brain {
+    padding-top: 0.3rem;
+    font-size: 1.8rem;
+}
+
+.n2-link-list {
+    margin: auto;
+    /* margin-left: 2rem; */
+    margin-right: 3rem;
+}
+
+.n2-link {
+    margin-left: 2.7rem;
+    font-size: 1.2rem;
+}
+
+.n2-side-menu {
+    color: white;
+    font-size: 2rem;
+    /* margin: auto; */
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: 1rem;
+    
+}
+
+
+
+
+
+
+.n2-navbar {
+    background-color: #242424;
+    height: 80px;
+}
+
+.n2-navbar-container {
+    /* background-color: antiquewhite; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80px;
+    max-width: 1500px;
+
+
+}
+
+.n2-navbar-logo1 {
+    background-color: antiquewhite;
+    color: white;
+    font-size: 2rem;
+    width: 20%;
+    text-decoration: none;
+    display: flex;
+    margin-left: 40px;
+
+    position: absolute;
+    left: 10%;
+    transform: translate(-50%, 0);
+}
+
+.fa-solid.fa-brain1 {
+    margin-left: 0.5rem;
+    padding-top: 0.3rem;
+    font-size: 1.8rem;
+}
+
+.n2-navbar-links {
+    display: grid;
+    grid-template-columns: repeat(4, auto);
+    grid-gap: 2.7rem;
+    font-size: 1.2rem;
+    list-style: none;
+    justify-content: center;
+
+    position: absolute;
+    left: 50%;
+}
+
+.n2-link:hover {
+    border-bottom: 3px solid #fff;
+    transition: all 0.2s ease-out;
+  }
+
+.n2-link-wrapper {
+
+}
+
+.n2-link {
+    color: white;
+    text-decoration: none;
+}
+
+.n2-side-menu1 {
+    color: white;
+    width: 5%;
+    font-size: 2rem;
+
+    position: absolute;
+    right: 0%;
+}
+
+.n2-info {
+    text-decoration: none;
+    color: white;
+}

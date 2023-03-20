@@ -1,0 +1,43 @@
+.n8-container {
+    /* background-color: azure; */
+    text-align: center;
+    padding: 0.5rem;
+    height: 300px;
+    box-shadow: 0 0px 15px rgba(56, 125, 255, 0.17);
+    border-radius: 0.8rem;
+    padding-bottom: 1rem;
+}
+.n8-cards-wrapper {
+    white-space: nowrap;
+    overflow-x: auto;
+}
+.n8-card {
+    display: inline-block;
+    padding: 1rem;
+    border-radius: 0.8rem;
+    box-shadow: 0 2px 15px rgba(56, 125, 255, 0.17);
+    border: 2px solid #b9b5b5;
+
+    /* background-color: rgb(77, 166, 123); */
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    
+}
+
+.n8-profile-pic {
+    /* background-color: aqua; */
+    border-radius: 50%;
+    width: 150px; 
+    height: 150px;
+
+}
+.n8-company-name {
+    display: block;
+    margin-top: 0.5rem;
+    /* color: #8a8989; */
+    color: black;
+    font-weight:600;
+}

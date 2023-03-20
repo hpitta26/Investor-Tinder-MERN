@@ -1,0 +1,141 @@
+.n6-whole-page {
+    margin-top: 80px;
+    position: relative;
+}
+.n6-title-text {
+    display: flex;
+    justify-content: center;
+}
+.n6-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 5fr;
+    padding: 1rem;
+}
+.n6-cell {
+    /* background-color: aqua; */
+    margin: 1rem;
+}
+
+
+.n6-invest-form {
+    /* background-color: aqua; */
+    text-align: center;
+}
+.n6-form-cell {
+    /* background-color: beige; */
+}
+.n6-grid-form {
+    /* background-color: aquamarine; */
+
+    border-radius: 0.8rem;
+    box-shadow: 0 0px 15px rgba(56, 125, 255, 0.17);
+
+    
+    margin: auto;
+    width: 50%;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr 0fr 2fr 2fr;
+    padding: 1rem;
+    gap: 1rem;
+}
+
+.n6-slider-wrapper {
+    display: grid;
+}
+.n6-form-amount {
+    font-weight: 600;
+    font-size: x-large;
+}
+.n6-form-header {
+    margin: auto;
+}
+
+.n6-input-submit {
+    height: 40px;
+    width: 30%;
+    /* margin: auto; */
+
+}
+
+.n6-divider {
+    width: 100%;
+    /* border-collapse: collapse; */
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid rgb(186, 183, 183);
+}
+.n6-submit-wrapper {
+    margin-top: 2rem;
+}
+
+
+
+
+
+.n6-popup-container {
+    background-color: rgba(249, 228, 202);
+    position: absolute;
+    left: 50%;
+    top:50%;
+    transform: translate(-50%,-50%);
+    padding: 1rem;
+    border-radius: 1rem;
+    box-shadow: 0 5px 10px 0 rgba(0,0,0,0.1);
+    height: 70%;
+    width: 50%;
+
+    opacity: 0;
+    text-align: center;
+    transition: opacity 100ms ease-in-out;
+    pointer-events: none;
+}
+.n6-popup-container.active {
+    opacity: 1;
+    pointer-events: auto;
+}
+
+.n6-popup-wrapper {
+    height: 100%;
+    /* background-color: aquamarine; */
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 0.5fr 1fr 1fr 1fr;
+    gap: 1rem;
+}
+.n6-popup-cell {
+    /* background-color: azure; */
+}
+.n6-popup-top {
+
+}
+.fa-circle-check {
+    font-size: 4rem;
+    color: rgb(67, 180, 74);
+}
+.fa-circle-exclamation {
+    font-size: 4rem;
+    color: rgb(234, 10, 10);
+}
+
+
+.n6-popup-btn { 
+    color: white;
+    padding: 0.5rem;
+    border-style: hidden;
+    border-radius: 0.5rem;
+    width: 8rem;
+    height: 2.5rem;
+}
+.n6-true {
+    background-color: rgb(67, 180, 74);
+}
+.n6-false {
+    background-color: rgb(234, 10, 10);
+}
+
+
+
+

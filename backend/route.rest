@@ -1,0 +1,104 @@
+### Startup Tests
+
+GET http://localhost:9000/startups
+
+###
+
+GET http://localhost:9000/startups/6411044857917eef6f7ac07e
+
+###
+
+POST http://localhost:9000/startups
+Content-Type: application/json 
+
+{
+    
+}
+
+### Watchlist Tests
+
+GET http://localhost:9000/watchlist
+
+###
+
+GET http://localhost:9000/watchlist/6413967d725ea1dd5dd8f870
+
+###
+
+POST http://localhost:9000/watchlist
+Content-Type: application/json 
+
+{
+    "industries": "Real Estate",
+    "src": "images/realestate1.jpg",
+    "alt": "Real Estate",
+    "text": "Home Builders",
+    "username": "home-builders",
+    "ocf": [
+      10000,
+      11000,
+      12000
+    ],
+    "rgr": [
+      4.2,
+      -5.4,
+      3.1
+    ],
+    "sales": [
+      1230,
+      808,
+      970
+    ]
+}
+
+
+### updates star
+
+PATCH http://localhost:9000/watchlist/641123df3038c714e45b1c4e
+Content-Type: application/json 
+
+{
+    "star": true
+}
+
+###
+
+DELETE http://localhost:9000/watchlist/6413971a725ea1dd5dd8f876
+
+### Portfolio Tests
+
+GET http://localhost:9000/portfolio
+
+###
+
+GET http://localhost:9000/portfolio
+    ?username=101-consulting
+
+###
+
+POST http://localhost:9000/portfolio
+Content-Type: application/json 
+
+{
+      "industries": "Delivery",
+      "src": "images/delivery1.jpg",
+      "alt": "Food Delivery",
+      "text": "Insta Grocery",
+      "username": "insta-grocery",
+      "amount": 5182
+}
+
+###
+
+PATCH http://localhost:9000/portfolio/64121b3e447e83c363725e06?username=101-consulting   
+Content-Type: application/json 
+
+{
+    "amount": 5000
+}
+
+###
+
+DELETE http://localhost:9000/portfolio/6413732ff7f8ff2357b5c00e
+
+
