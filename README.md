@@ -4,7 +4,7 @@
 - React for Frontend
 - Express.js/Node.js + Mongodb for Backend
 - JSON Server + REST Client used for prototyping and testing
-- ***P.S. go to this project's Wiki to see how the project currently looks***
+- ***P.S. go to this project's Wiki to see how the project currently looks like***
 
 ## Purpose:
 Help kickstart your Full Stack development journey by providing use cases and explanations on how to combine a **MERN stack** (MongoDB, Express, React, Node) together with popular **Dependencies** to begin developing your future projects.
