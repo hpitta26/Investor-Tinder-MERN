@@ -29,7 +29,7 @@ This project is the product of 100s of hours of self-studying after which I deci
 - **Fetch API** -> HTTP requests, Processing Promises/Responses, Query Strings, Async/ Await...
 - **Node Packages** -> CORS, JSON Server, React Router DOM, Nodemon, Dotenv, Concurrently, Mongoose...
 
-- **General** -> project folder structure, strategies to develop a project (user stories), package.json, .gitignore, CLI commands, useful VSCode extensions, help with installations, useful sources...
+- **General** -> project folder structure, strategies to develop a project (user stories), package.json, .gitignore, CLI commands, useful VSCode extensions, help with installations, useful resources, contributing to open source projects...
 
 - - - -
 
@@ -42,3 +42,14 @@ This project is the product of 100s of hours of self-studying after which I deci
    - Profile Page -> Shows the selected Startup's profile where the user can invest in that Startup causing it to be added to their Portfolio.
    - Portfolio Page -> Displays the user's invesments.
    - Info Page -> Displays additional information about the App.
+
+- - - -
+
+ ## Future:
+ A few features of this project are yet to be implemented since the focus of this project was to showcase how different technologies interact with each other. When these features are implemented the documentation will be updated. If you wish to practice your developer skills you may implement one of these features yourself and create a **Pull Request** to merge your code to this repository. 
+ ### Unimplemented Features Include:
+   - Window downsizing responsiveness (you could focus only on one Component).
+   - Removing startups from user's portfolio.
+   - User Profile editing (you may use a boolean to toggle the state of the User Profile and conditionally render each state).
+   - You may also use your creativity and improve the layout or function of any Component.
+ 
