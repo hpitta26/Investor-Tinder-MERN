@@ -138,7 +138,14 @@
     pointer-events: auto; /*allows your mouse to interact with the dropdown menu*/
 }
 
-xd
+.n102-divider {
+    width: 100%;
+    /* border-collapse: collapse; */
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid rgb(186, 183, 183);
+}
 .n102-dropdown-header {
     display: flex;
     padding-left: 0.2rem;
