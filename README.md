@@ -37,7 +37,7 @@ This project is the product of 100s of hours of self-studying after which I deci
  ## About Investor Tinder:
  This is a **Demo Invesment Web App** that showcases the most important components of developing using a MERN Stack.
  ### Features Include:
-   - Home Page -> Users can like or dislike Startups (liking the Startup adds it to the user's Watchlist).
+   - Home Page -> User can like or dislike Startups (liking the Startup adds it to the user's Watchlist).
    - Explore Page -> User can browse Startups in up to 3 selected industries.
    - Watchlist Page -> Displays the user's Watchlist which can be sorted based on various specified criteria.
    - Profile Page -> Shows the selected Startup's profile where the user can invest in that Startup causing it to be added to their Portfolio.
