@@ -47,7 +47,7 @@ This project is the product of 100s of hours of self-studying after which I deci
 - - - -
 
  ## Future:
- A few features of this project are yet to be implemented since the focus of this project was to showcase how different technologies interact with each other. When these features are implemented the documentation will be updated. If you wish to practice your developer skills you may implement one of these features yourself and create a **Pull Request** to merge your code to this repository. 
+ A few features of this project are yet to be implemented since the focus of this project was to showcase how different technologies interact with each other. When these features are implemented the documentation will be updated. If you wish to practice your developer skills you may implement one of these features yourself and create a **Pull Request** to have your code reviewed and potentially merged to this repository. 
  ### Unimplemented Features Include:
    - Window downsizing responsiveness (you could focus only on one Component).
    - Removing startups from user's portfolio.
