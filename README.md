@@ -1,5 +1,5 @@
 # Investor Tinder
-- Couple month long project, first true exposure to Full Stack development. Really tried to make the project nuanced to make sure I had some exposure to different problems and their solutions. Self studied and complied a series of documents on Full Stack Development when building this project.
+- Couple month long project, first true exposure to Full Stack development. Really tried to make the project nuanced to make sure I had some exposure to different problems and their solutions. Self studied and complied a series of documents on Full Stack Development while building this project.
 ## Features:
 - React for Frontend
 - Express.js/Node.js + Mongodb for Backend
